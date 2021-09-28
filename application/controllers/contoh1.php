@@ -8,4 +8,8 @@ class Contoh1 extends CI_Controller
           Tempat Lahir   : Sukabumi <br>
           Tanggal Lahir  : 01 Oktober 1993";
      }
+     public function halo()
+     {
+          echo "halo, ini controller halo()";
+     }
 }
